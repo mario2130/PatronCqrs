@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31606.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquitectureCqrs", "ArquitectureCqrs\ArquitectureCqrs.csproj", "{5875B216-901C-49FA-9DE4-11EB231F9C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5875B216-901C-49FA-9DE4-11EB231F9C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5875B216-901C-49FA-9DE4-11EB231F9C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5875B216-901C-49FA-9DE4-11EB231F9C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5875B216-901C-49FA-9DE4-11EB231F9C00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41CB331E-7440-47ED-8D6B-B2F530EA1541}
+	EndGlobalSection
+EndGlobal

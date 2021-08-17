@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bplZkoyq7LrVfrB4Fv6mSKzNHZ4BAC21KyYb3RtB3nO2aIx1uzero25eC+6Zv+l//KcsmDhpWnSCsjZvzLxPiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mario\\source\\repos\\ArquitectureCqrs\\ArquitectureCqrs\\PatronCqrs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
