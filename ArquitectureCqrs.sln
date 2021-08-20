@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31606.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquitectureCqrs", "ArquitectureCqrs\ArquitectureCqrs.csproj", "{5875B216-901C-49FA-9DE4-11EB231F9C00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronCqrs", "ArquitectureCqrs\PatronCqrs.csproj", "{5875B216-901C-49FA-9DE4-11EB231F9C00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

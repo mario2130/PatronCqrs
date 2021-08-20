@@ -1,12 +1,15 @@
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using PatronCqrs.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace ArquitectureCqrs
@@ -24,6 +27,8 @@ namespace ArquitectureCqrs
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddSingleton<IProductContext>(new ProductContext(Configuration.GetConnectionString("CQRSDemo")));
+            services.AddMediatR(Assembly.GetExecutingAssembly());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

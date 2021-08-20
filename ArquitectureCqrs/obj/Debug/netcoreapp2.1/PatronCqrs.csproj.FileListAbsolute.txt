@@ -1,0 +1,4 @@
+C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\netcoreapp2.1\PatronCqrs.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\netcoreapp2.1\PatronCqrs.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\netcoreapp2.1\PatronCqrs.AssemblyInfo.cs
+C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\netcoreapp2.1\PatronCqrs.csproj.CoreCompileInputs.cache
