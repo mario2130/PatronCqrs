@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using PatronCqrs.Context;
+using PatronCqrs.FIlters;
+using PatronCqrs.FIlters.Handlers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,6 +31,17 @@ namespace ArquitectureCqrs
             services.AddRazorPages();
             services.AddSingleton<IProductContext>(new ProductContext(Configuration.GetConnectionString("CQRSDemo")));
             services.AddMediatR(Assembly.GetExecutingAssembly());
+            services.AddControllers(options =>
+            {
+                options.Filters.Add(
+                    new ApiExceptionFilterAttribute(
+                            new Dictionary<Type, IExceptionHandler>
+                            {
+                                { typeof(EntityNotFoundExceptionHandler), new EntityNotFoundExceptionHandler() }
+                            }
+                        )
+                    );
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

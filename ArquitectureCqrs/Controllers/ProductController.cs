@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 namespace PatronCqrs.Controllers
 {
     [Route("api/[Controller]")]
+    [ApiController]
     public class ProductController : Controller
     {
 

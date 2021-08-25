@@ -41,7 +41,6 @@ C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\P
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\PatronCqrs.RazorAssemblyInfo.cache
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\PatronCqrs.RazorAssemblyInfo.cs
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\staticwebassets\PatronCqrs.StaticWebAssets.Manifest.cache
-C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\staticwebassets\PatronCqrs.StaticWebAssets.xml
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\scopedcss\bundle\PatronCqrs.styles.css
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\PatronCqrs.TagHelpers.input.cache
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\PatronCqrs.TagHelpers.output.cache
@@ -61,3 +60,5 @@ C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\P
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\ref\PatronCqrs.dll
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\PatronCqrs.pdb
 C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\obj\Debug\net5.0\PatronCqrs.genruntimeconfig.cache
+C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\bin\Debug\net5.0\MediatR.dll
+C:\Users\Mario\source\repos\ArquitectureCqrs\ArquitectureCqrs\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

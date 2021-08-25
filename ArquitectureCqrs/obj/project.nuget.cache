@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qNx1pdb+QkMwYzMX2uWGQubSsL3549kID7C18JqM5og2vUmonleYIN+pGSxKSiud82ridQNsTQ1APOpySOlBWA==",
+  "dgSpecHash": "Y1bPgLYDgfYTYSJGRaPhjDYNWQd35kntcd9zDqYf2YZVk2NN0bzan5WlCOEmQ4ZXArLWQTIE5slwmmDJ5+S0Bw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mario\\source\\repos\\ArquitectureCqrs\\ArquitectureCqrs\\PatronCqrs.csproj",
   "expectedPackageFiles": [
@@ -40,8 +40,7 @@
     "C:\\Users\\Mario\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "C:\\Users\\Mario\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+    "C:\\Users\\Mario\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
